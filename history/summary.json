@@ -58,18 +58,20 @@
     "url": "$DATA_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "data",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 320,
-    "timeDay": 493,
-    "timeWeek": 341,
-    "timeMonth": 312,
-    "timeYear": 320,
-    "dailyMinutesDown": {}
+    "time": 315,
+    "timeDay": 321,
+    "timeWeek": 317,
+    "timeMonth": 307,
+    "timeYear": 315,
+    "dailyMinutesDown": {
+      "2024-01-08": 0
+    }
   },
   {
     "name": "Ops",
