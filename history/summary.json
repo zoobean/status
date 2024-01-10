@@ -78,19 +78,19 @@
     "url": "$OPS_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ops",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "98.92%",
+    "uptimeDay": "61.62%",
+    "uptimeWeek": "94.52%",
+    "uptimeMonth": "98.74%",
+    "uptimeYear": "98.92%",
     "time": 36,
-    "timeDay": 55,
-    "timeWeek": 45,
-    "timeMonth": 37,
+    "timeDay": 56,
+    "timeWeek": 46,
+    "timeMonth": 38,
     "timeYear": 36,
     "dailyMinutesDown": {
-      "2024-01-10": 0
+      "2024-01-10": 553
     }
   }
 ]
