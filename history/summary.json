@@ -22,18 +22,20 @@
     "url": "https://zoobean.beanstack.org/reader365",
     "icon": "https://icons.duckduckgo.com/ip3/zoobean.beanstack.org.ico",
     "slug": "app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 389,
-    "timeDay": 337,
-    "timeWeek": 369,
-    "timeMonth": 391,
-    "timeYear": 389,
-    "dailyMinutesDown": {}
+    "time": 388,
+    "timeDay": 277,
+    "timeWeek": 350,
+    "timeMonth": 385,
+    "timeYear": 388,
+    "dailyMinutesDown": {
+      "2024-03-28": 0
+    }
   },
   {
     "name": "Books",
