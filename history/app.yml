@@ -1,7 +1,7 @@
 url: https://zoobean.beanstack.org/reader365
-status: up
-code: 200
-responseTime: 337
-lastUpdated: 2024-03-27T23:01:26.558Z
+status: down
+code: 503
+responseTime: 217
+lastUpdated: 2024-03-28T00:05:43.739Z
 startTime: 2023-12-06T00:20:09.444Z
 generator: Upptime <https://github.com/upptime/upptime>
