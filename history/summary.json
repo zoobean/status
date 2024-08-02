@@ -22,10 +22,10 @@
     "url": "https://zoobean.beanstack.org/reader365",
     "icon": "https://icons.duckduckgo.com/ip3/zoobean.beanstack.org.ico",
     "slug": "app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 451,
@@ -34,6 +34,7 @@
     "timeMonth": 565,
     "timeYear": 451,
     "dailyMinutesDown": {
+      "2024-08-02": 1,
       "2024-04-05": 61,
       "2024-03-28": 77
     }
