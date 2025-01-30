@@ -44,19 +44,19 @@
     "url": "$BOOKS_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "books",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 234,
-    "timeDay": 271,
-    "timeWeek": 191,
-    "timeMonth": 210,
-    "timeYear": 241,
+    "time": 233,
+    "timeDay": 199,
+    "timeWeek": 176,
+    "timeMonth": 206,
+    "timeYear": 240,
     "dailyMinutesDown": {
-      "2025-01-30": 0
+      "2025-01-30": 7
     }
   },
   {
