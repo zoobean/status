@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 212,
-    "timeDay": 416,
-    "timeWeek": 260,
-    "timeMonth": 240,
-    "timeYear": 216,
+    "timeDay": 407,
+    "timeWeek": 277,
+    "timeMonth": 245,
+    "timeYear": 217,
     "dailyMinutesDown": {}
   },
   {
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 443,
-    "timeDay": 502,
-    "timeWeek": 505,
+    "timeDay": 515,
+    "timeWeek": 508,
     "timeMonth": 521,
     "timeYear": 449,
     "dailyMinutesDown": {
@@ -38,6 +38,24 @@
       "2025-04-07": 19,
       "2024-08-02": 59
     }
+  },
+  {
+    "name": "Canada",
+    "url": "https://canada.beanstack.com/reader365",
+    "icon": "https://icons.duckduckgo.com/ip3/canada.beanstack.com.ico",
+    "slug": "canada",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 746,
+    "timeDay": 746,
+    "timeWeek": 746,
+    "timeMonth": 746,
+    "timeYear": 746,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Books",
@@ -51,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 233,
-    "timeDay": 257,
+    "timeDay": 254,
     "timeWeek": 253,
-    "timeMonth": 259,
+    "timeMonth": 258,
     "timeYear": 230,
     "dailyMinutesDown": {
       "2025-03-07": 7,
@@ -73,10 +91,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 358,
-    "timeDay": 496,
-    "timeWeek": 351,
-    "timeMonth": 357,
+    "time": 357,
+    "timeDay": 410,
+    "timeWeek": 347,
+    "timeMonth": 356,
     "timeYear": 371,
     "dailyMinutesDown": {
       "2024-12-27": 71
@@ -94,8 +112,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 30,
-    "timeDay": 39,
-    "timeWeek": 35,
+    "timeDay": 40,
+    "timeWeek": 36,
     "timeMonth": 36,
     "timeYear": 30,
     "dailyMinutesDown": {}
