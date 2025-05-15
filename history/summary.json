@@ -44,19 +44,19 @@
     "url": "https://canada.beanstack.com/reader365",
     "icon": "https://icons.duckduckgo.com/ip3/canada.beanstack.com.ico",
     "slug": "canada",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 7469,
-    "timeDay": 14178,
-    "timeWeek": 7469,
-    "timeMonth": 7469,
-    "timeYear": 7469,
+    "status": "up",
+    "uptime": "99.68%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.68%",
+    "time": 6082,
+    "timeDay": 9630,
+    "timeWeek": 6082,
+    "timeMonth": 6082,
+    "timeYear": 6082,
     "dailyMinutesDown": {
-      "2025-05-15": 0
+      "2025-05-15": 9
     }
   },
   {
