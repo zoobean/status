@@ -44,18 +44,20 @@
     "url": "https://canada.beanstack.com/reader365",
     "icon": "https://icons.duckduckgo.com/ip3/canada.beanstack.com.ico",
     "slug": "canada",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 731,
-    "timeDay": 671,
-    "timeWeek": 731,
-    "timeMonth": 731,
-    "timeYear": 731,
-    "dailyMinutesDown": {}
+    "time": 7469,
+    "timeDay": 14178,
+    "timeWeek": 7469,
+    "timeMonth": 7469,
+    "timeYear": 7469,
+    "dailyMinutesDown": {
+      "2025-05-15": 0
+    }
   },
   {
     "name": "Books",
