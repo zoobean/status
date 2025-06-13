@@ -9,6 +9,10 @@ sites:
     url: https://zoobean.beanstack.org/reader365
   - name: Canada
     url: https://canada.beanstack.com/reader365
+  - name: DCPL
+    url: https://dclibrary.beanstack.com/reader365
+  - name: LFPL
+    url: https://lfpl.beanstack.com/reader365
   - name: Books
     url: $BOOKS_URL
   - name: Data
@@ -42,3 +46,11 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
