@@ -48,11 +48,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/canada.beanstack.com.ico",
     "slug": "canada",
     "status": "up",
-    "uptime": "97.16%",
+    "uptime": "97.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "92.58%",
-    "uptimeYear": "97.16%",
+    "uptimeYear": "97.17%",
     "time": 927,
     "timeDay": 511,
     "timeWeek": 729,
@@ -80,10 +80,10 @@
     "url": "https://dclibrary.beanstack.com/reader365",
     "icon": "https://icons.duckduckgo.com/ip3/dclibrary.beanstack.com.ico",
     "slug": "dcpl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 538,
@@ -92,6 +92,7 @@
     "timeMonth": 479,
     "timeYear": 538,
     "dailyMinutesDown": {
+      "2025-08-25": 1,
       "2025-07-31": 11
     }
   },
@@ -100,9 +101,9 @@
     "url": "https://lfpl.beanstack.com/reader365",
     "icon": "https://icons.duckduckgo.com/ip3/lfpl.beanstack.com.ico",
     "slug": "lfpl",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -111,7 +112,9 @@
     "timeWeek": 463,
     "timeMonth": 434,
     "timeYear": 445,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-25": 0
+    }
   },
   {
     "name": "Books",
