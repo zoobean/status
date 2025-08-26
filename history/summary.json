@@ -80,10 +80,10 @@
     "url": "https://dclibrary.beanstack.com/reader365",
     "icon": "https://icons.duckduckgo.com/ip3/dclibrary.beanstack.com.ico",
     "slug": "dcpl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "97.56%",
-    "uptimeWeek": "99.65%",
+    "uptimeDay": "97.51%",
+    "uptimeWeek": "99.64%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.96%",
     "time": 535,
@@ -92,6 +92,7 @@
     "timeMonth": 477,
     "timeYear": 535,
     "dailyMinutesDown": {
+      "2025-08-26": 1,
       "2025-08-25": 35,
       "2025-07-31": 11
     }
@@ -101,9 +102,9 @@
     "url": "https://lfpl.beanstack.com/reader365",
     "icon": "https://icons.duckduckgo.com/ip3/lfpl.beanstack.com.ico",
     "slug": "lfpl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "97.68%",
+    "uptimeDay": "97.67%",
     "uptimeWeek": "99.67%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.97%",
@@ -113,6 +114,7 @@
     "timeMonth": 422,
     "timeYear": 442,
     "dailyMinutesDown": {
+      "2025-08-26": 0,
       "2025-08-25": 34
     }
   },
