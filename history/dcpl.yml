@@ -1,7 +1,7 @@
 url: https://dclibrary.beanstack.com/reader365
-status: up
-code: 200
-responseTime: 469
-lastUpdated: 2026-01-15T23:02:05.826Z
+status: down
+code: 503
+responseTime: 4078
+lastUpdated: 2026-01-16T09:59:04.332Z
 startTime: 2025-06-13T15:53:37.949Z
 generator: Upptime <https://github.com/upptime/upptime>
