@@ -13,6 +13,8 @@ sites:
     url: https://dclibrary.beanstack.com/reader365
   - name: LFPL
     url: https://lfpl.beanstack.com/reader365
+  - name: RMI
+    url: https://rmi.beanstack.com/up
   - name: Books
     url: $BOOKS_URL
   - name: Data
