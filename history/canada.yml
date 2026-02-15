@@ -1,7 +1,7 @@
 url: https://canada.beanstack.com/reader365
-status: up
-code: 200
-responseTime: 758
-lastUpdated: 2026-02-14T23:03:16.098Z
+status: down
+code: 503
+responseTime: 342
+lastUpdated: 2026-02-15T03:26:25.809Z
 startTime: 2025-05-13T14:44:19.535Z
 generator: Upptime <https://github.com/upptime/upptime>
