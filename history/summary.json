@@ -283,8 +283,8 @@
     "slug": "books",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.46%",
-    "uptimeWeek": "99.78%",
+    "uptimeDay": "98.42%",
+    "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
     "time": 252,
@@ -301,7 +301,7 @@
       "2026-01-10": 12,
       "2026-02-17": 18,
       "2026-03-31": 29,
-      "2026-06-01": 22
+      "2026-06-01": 23
     }
   },
   {
@@ -311,7 +311,7 @@
     "slug": "data",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.10%",
+    "uptimeDay": "99.06%",
     "uptimeWeek": "99.87%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
@@ -321,7 +321,7 @@
     "timeMonth": 304,
     "timeYear": 348,
     "dailyMinutesDown": {
-      "2026-06-01": 13
+      "2026-06-01": 14
     }
   },
   {
@@ -331,7 +331,7 @@
     "slug": "ops",
     "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "99.68%",
+    "uptimeDay": "99.64%",
     "uptimeWeek": "99.95%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
