@@ -56,7 +56,7 @@
     "timeDay": 334,
     "timeWeek": 1117,
     "timeMonth": 632,
-    "timeYear": 472,
+    "timeYear": 471,
     "dailyMinutesDown": {
       "2025-07-29": 44,
       "2025-08-15": 27,
@@ -70,17 +70,17 @@
     "url": "https://canada.beanstack.com/reader365",
     "icon": "https://icons.duckduckgo.com/ip3/canada.beanstack.com.ico",
     "slug": "canada",
-    "status": "up",
-    "uptime": "99.27%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.28%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.32%",
     "time": 697,
-    "timeDay": 397,
-    "timeWeek": 578,
-    "timeMonth": 614,
-    "timeYear": 607,
+    "timeDay": 398,
+    "timeWeek": 553,
+    "timeMonth": 607,
+    "timeYear": 606,
     "dailyMinutesDown": {
       "2025-07-25": 10,
       "2025-07-26": 8,
@@ -101,7 +101,8 @@
       "2025-11-18": 150,
       "2025-12-05": 9,
       "2026-02-15": 53,
-      "2026-06-02": 68
+      "2026-06-02": 68,
+      "2026-07-23": 0
     }
   },
   {
@@ -178,11 +179,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/rmi.beanstack.com.ico",
     "slug": "rmi",
     "status": "up",
-    "uptime": "53.80%",
+    "uptime": "54.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "53.80%",
+    "uptimeYear": "54.04%",
     "time": 338,
     "timeDay": 233,
     "timeWeek": 316,
@@ -319,7 +320,7 @@
     "timeDay": 228,
     "timeWeek": 274,
     "timeMonth": 279,
-    "timeYear": 336,
+    "timeYear": 335,
     "dailyMinutesDown": {
       "2026-06-01": 66,
       "2026-06-02": 50
