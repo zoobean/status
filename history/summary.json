@@ -70,11 +70,11 @@
     "url": "https://canada.beanstack.com/reader365",
     "icon": "https://icons.duckduckgo.com/ip3/canada.beanstack.com.ico",
     "slug": "canada",
-    "status": "up",
+    "status": "down",
     "uptime": "99.27%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.35%",
-    "uptimeMonth": "99.85%",
+    "uptimeDay": "98.55%",
+    "uptimeWeek": "99.15%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "99.31%",
     "time": 697,
     "timeDay": 699,
@@ -99,7 +99,8 @@
       "2026-02-15": 53,
       "2026-06-02": 68,
       "2026-07-23": 15,
-      "2026-07-26": 50
+      "2026-07-26": 50,
+      "2026-07-28": 21
     }
   },
   {
@@ -176,11 +177,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/rmi.beanstack.com.ico",
     "slug": "rmi",
     "status": "up",
-    "uptime": "55.07%",
+    "uptime": "55.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "55.07%",
+    "uptimeYear": "55.10%",
     "time": 344,
     "timeDay": 608,
     "timeWeek": 503,
@@ -279,11 +280,11 @@
     "url": "$BOOKS_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "books",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.91%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.94%",
     "time": 248,
     "timeDay": 326,
@@ -300,7 +301,8 @@
       "2026-03-31": 29,
       "2026-06-01": 75,
       "2026-06-02": 59,
-      "2026-07-26": 41
+      "2026-07-26": 41,
+      "2026-07-28": 12
     }
   },
   {
@@ -330,11 +332,11 @@
     "url": "$OPS_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ops",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
     "time": 33,
     "timeDay": 70,
@@ -345,7 +347,8 @@
       "2026-06-01": 58,
       "2026-06-02": 41,
       "2026-06-06": 27,
-      "2026-07-26": 23
+      "2026-07-26": 23,
+      "2026-07-28": 2
     }
   }
 ]
