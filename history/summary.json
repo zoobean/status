@@ -173,11 +173,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/rmi.beanstack.com.ico",
     "slug": "rmi",
     "status": "up",
-    "uptime": "56.57%",
+    "uptime": "56.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "56.57%",
+    "uptimeYear": "56.58%",
     "time": 347,
     "timeDay": 640,
     "timeWeek": 447,
@@ -328,16 +328,16 @@
     "url": "$OPS_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ops",
-    "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.49%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.96%",
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "95.02%",
+    "uptimeWeek": "98.80%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.95%",
     "time": 33,
-    "timeDay": 69,
-    "timeWeek": 38,
-    "timeMonth": 33,
+    "timeDay": 70,
+    "timeWeek": 41,
+    "timeMonth": 34,
     "timeYear": 33,
     "dailyMinutesDown": {
       "2026-06-01": 58,
@@ -345,7 +345,7 @@
       "2026-06-06": 27,
       "2026-07-26": 23,
       "2026-07-28": 49,
-      "2026-08-03": 2
+      "2026-08-03": 72
     }
   }
 ]
