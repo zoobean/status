@@ -171,17 +171,17 @@
     "url": "https://rmi.beanstack.com/up",
     "icon": "https://icons.duckduckgo.com/ip3/rmi.beanstack.com.ico",
     "slug": "rmi",
-    "status": "up",
-    "uptime": "57.43%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "57.63%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "57.43%",
-    "time": 348,
-    "timeDay": 909,
-    "timeWeek": 475,
-    "timeMonth": 424,
-    "timeYear": 348,
+    "uptimeYear": "57.63%",
+    "time": 347,
+    "timeDay": 532,
+    "timeWeek": 435,
+    "timeMonth": 415,
+    "timeYear": 347,
     "dailyMinutesDown": {
       "2026-01-30": 28,
       "2026-02-04": 21,
@@ -267,7 +267,8 @@
       "2026-02-16": 1440,
       "2026-02-15": 1440,
       "2026-02-14": 1440,
-      "2026-02-13": 369
+      "2026-02-13": 369,
+      "2026-08-07": 0
     }
   },
   {
@@ -285,7 +286,7 @@
     "timeDay": 249,
     "timeWeek": 192,
     "timeMonth": 188,
-    "timeYear": 240,
+    "timeYear": 239,
     "dailyMinutesDown": {
       "2025-08-15": 6,
       "2025-09-12": 33,
@@ -315,7 +316,7 @@
     "timeDay": 343,
     "timeWeek": 361,
     "timeMonth": 336,
-    "timeYear": 335,
+    "timeYear": 334,
     "dailyMinutesDown": {
       "2026-06-01": 66,
       "2026-06-02": 50,
