@@ -171,17 +171,17 @@
     "url": "https://rmi.beanstack.com/up",
     "icon": "https://icons.duckduckgo.com/ip3/rmi.beanstack.com.ico",
     "slug": "rmi",
-    "status": "up",
-    "uptime": "57.86%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "58.04%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "57.86%",
-    "time": 350,
-    "timeDay": 498,
-    "timeWeek": 461,
-    "timeMonth": 428,
-    "timeYear": 350,
+    "uptimeYear": "58.04%",
+    "time": 349,
+    "timeDay": 331,
+    "timeWeek": 427,
+    "timeMonth": 420,
+    "timeYear": 349,
     "dailyMinutesDown": {
       "2026-01-30": 28,
       "2026-02-04": 21,
@@ -267,7 +267,8 @@
       "2026-02-16": 1440,
       "2026-02-15": 1440,
       "2026-02-14": 1440,
-      "2026-02-13": 369
+      "2026-02-13": 369,
+      "2026-08-09": 0
     }
   },
   {
