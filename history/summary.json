@@ -97,17 +97,17 @@
     "url": "https://dclibrary.beanstack.com/reader365",
     "icon": "https://icons.duckduckgo.com/ip3/dclibrary.beanstack.com.ico",
     "slug": "dcpl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.94%",
-    "time": 638,
-    "timeDay": 562,
-    "timeWeek": 664,
-    "timeMonth": 681,
-    "timeYear": 662,
+    "time": 637,
+    "timeDay": 463,
+    "timeWeek": 622,
+    "timeMonth": 670,
+    "timeYear": 660,
     "dailyMinutesDown": {
       "2025-10-20": 102,
       "2026-01-16": 11,
@@ -115,7 +115,8 @@
       "2026-08-15": 17,
       "2026-09-17": 18,
       "2026-09-23": 15,
-      "2026-10-04": 124
+      "2026-10-04": 124,
+      "2026-10-17": 1
     }
   },
   {
@@ -146,16 +147,16 @@
     "url": "https://rmi.beanstack.com/up",
     "icon": "https://icons.duckduckgo.com/ip3/rmi.beanstack.com.ico",
     "slug": "rmi",
-    "status": "up",
-    "uptime": "68.93%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "68.97%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.72%",
-    "uptimeYear": "68.93%",
+    "uptimeYear": "68.97%",
     "time": 370,
-    "timeDay": 399,
-    "timeWeek": 414,
-    "timeMonth": 408,
+    "timeDay": 343,
+    "timeWeek": 395,
+    "timeMonth": 402,
     "timeYear": 370,
     "dailyMinutesDown": {
       "2026-01-30": 28,
@@ -243,7 +244,8 @@
       "2026-02-15": 1440,
       "2026-02-14": 1440,
       "2026-02-13": 369,
-      "2026-10-04": 124
+      "2026-10-04": 124,
+      "2026-10-17": 0
     }
   },
   {
